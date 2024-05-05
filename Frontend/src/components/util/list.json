@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714827151~exp=1714830751~hmac=a363517881f20161372d181d92750932462203c7779df8d30d6144fc786e8949&w=740"
+        
+    },
+    {
+        "id": 2,
+        "name": "UPSC Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 100,
+        "category": "Competition",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714827151~exp=1714830751~hmac=a363517881f20161372d181d92750932462203c7779df8d30d6144fc786e8949&w=740"
+        
+    },
+    {
+        "id": 3,
+        "name": "Sports Magazine",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 20,
+        "category": "Sports",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714827151~exp=1714830751~hmac=a363517881f20161372d181d92750932462203c7779df8d30d6144fc786e8949&w=740"
+        
+    },
+    {
+        "id": 4,
+        "name": "Comic Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714827151~exp=1714830751~hmac=a363517881f20161372d181d92750932462203c7779df8d30d6144fc786e8949&w=740"
+        
+    },
+    {
+        "id": 5,
+        "name": "Engineering Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 50,
+        "category": "Engineering",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714827151~exp=1714830751~hmac=a363517881f20161372d181d92750932462203c7779df8d30d6144fc786e8949&w=740"
+        
+    },
+    {
+        "id": 6,
+        "name": "Frontend Dev Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714827151~exp=1714830751~hmac=a363517881f20161372d181d92750932462203c7779df8d30d6144fc786e8949&w=740"
+        
+    },
+    {
+        "id": 7,
+        "name": "GK Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 10,
+        "category": "Competition",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714827151~exp=1714830751~hmac=a363517881f20161372d181d92750932462203c7779df8d30d6144fc786e8949&w=740"
+        
+    },
+    {
+        "id": 8,
+        "name": "Vocabulary Book",
+        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Free",
+        "image" : "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1714827151~exp=1714830751~hmac=a363517881f20161372d181d92750932462203c7779df8d30d6144fc786e8949&w=740"
+        
+    }
+]
